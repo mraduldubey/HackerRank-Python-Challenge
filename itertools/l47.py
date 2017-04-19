@@ -9,15 +9,3 @@ for each in res:
         res += ch
     print res
 
-'''
-Output:
-A
-C
-H
-K
-AC
-AK
-CK
-HA
-HC
-HK'''
