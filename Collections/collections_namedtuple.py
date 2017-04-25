@@ -14,7 +14,7 @@ for _ in xrange(N):
     inp = raw_input().split()
     details = student(*inp)
     s += int(details.MARKS)
-    
+#For float division we have imported __future__ construct.
 print s / N
 
 
